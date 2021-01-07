@@ -133,7 +133,7 @@ export default {
   background-color: #333744;
   .el-menu-item{
     border-right: none;
-    min-width: 199px;
+    // min-width: 199px;
   }
 }
 .el-main {
@@ -150,5 +150,8 @@ i{
   text-align: center;
   letter-spacing: 0.2em;
   cursor: pointer;
+}
+.el-submenu .el-menu-item{
+  min-width: 199px;
 }
 </style>
