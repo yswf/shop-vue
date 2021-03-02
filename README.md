@@ -10,7 +10,9 @@
 + 前端技术栈:Vue,Vue-Router,Element-UI,Axios,Echarts
 + 后端技术栈：Node.js,Express,Jwt(模拟session),Mysql,Sequelize(操作数据库的框架)
 + 后端项目地址：[node_shop](https://github.com/yswf/node_shop)
-
+### 3.测试账号
++ name:yswf
++ pwd:wf123456
 ---
 
 # 1. 电商管理后台 API 接口文档
