@@ -12,7 +12,7 @@
 + 后端项目地址：[node_shop](https://github.com/yswf/node_shop)
 ### 3.测试账号
 + name:admin
-+ pwd:wf123456
++ pwd:123456
 ---
 
 # 1. 电商管理后台 API 接口文档
